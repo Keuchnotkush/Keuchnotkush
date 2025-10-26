@@ -16,8 +16,8 @@ About Me:<br>
 ## 🛡️ Security Focus Areas:
 - **Offensive Security**: Penetration Testing, Red Team Operations, Privilege Escalation
 - **Operating Systems**: Linux & Windows Security
-- **Specializations**: Social Engineering, Network Enumeration, Web Application Security
-- **Tools**: Nmap, Metasploit, Bash Scripting, Network Traffic Analysis
+- **Specializations**: Social Engineering, Network Enumeration
+- **Tools**: Nmap, Metasploit, Bash Scripting, Network Traffic Analysis , MITREATT&CK
 
 ## ⚔️ Arsenal
 ```
