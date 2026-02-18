@@ -1,6 +1,5 @@
 About Me:<br>
 🔭 Penetration Tester in the making | Aspiring Red Team Operator<br>
-🛡️ Currently Enrolled: **Junior Cybersecurity Analyst Path** @ HTB Academy<br>
 📜 Pursuing: **OSCP** | **CompTIA Security+** | **Red Team Certifications**<br>
 💬 Ask me about Social Engineering & Linux Security<br>
 
