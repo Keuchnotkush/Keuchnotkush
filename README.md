@@ -18,37 +18,40 @@ OPEN TO    Appsec · Security Research · Backend Development · OPS
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/keuchnotkush/REDTEXT"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.hackclub.dev/api/pin/?username=keuchnotkush&repo=REDTEXT&hide_border=true&bg_color=00000000&theme=dark">
-    <img src="https://github-readme-stats.hackclub.dev/api/pin/?username=keuchnotkush&repo=REDTEXT&hide_border=true&bg_color=00000000">
-  </picture></a>
-  <a href="https://github.com/keuchnotkush/Juice-Shop-Wallet-Depletion"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.hackclub.dev/api/pin/?username=keuchnotkush&repo=Juice-Shop-Wallet-Depletion&hide_border=true&bg_color=00000000&theme=dark">
-    <img src="https://github-readme-stats.hackclub.dev/api/pin/?username=keuchnotkush&repo=Juice-Shop-Wallet-Depletion&hide_border=true&bg_color=00000000">
-  </picture></a>
-</p>
-<p align="center">
-  <a href="https://github.com/keuchnotkush/AYZE"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.hackclub.dev/api/pin/?username=keuchnotkush&repo=AYZE&hide_border=true&bg_color=00000000&theme=dark">
-    <img src="https://github-readme-stats.hackclub.dev/api/pin/?username=keuchnotkush&repo=AYZE&hide_border=true&bg_color=00000000">
-  </picture></a>
-  <a href="https://github.com/keuchnotkush/scp_resume_site"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.hackclub.dev/api/pin/?username=keuchnotkush&repo=scp_resume_site&hide_border=true&bg_color=00000000&theme=dark">
-    <img src="https://github-readme-stats.hackclub.dev/api/pin/?username=keuchnotkush&repo=scp_resume_site&hide_border=true&bg_color=00000000">
-  </picture></a>
-</p>
+<table align="center">
+<tr>
+<td><a href="https://github.com/keuchnotkush/REDTEXT"><b>REDTEXT</b></a></td>
+<td>Social-engineering pretext generator · GoPhish API</td>
+<td><img src="https://img.shields.io/github/stars/keuchnotkush/REDTEXT?style=flat-square&label=%E2%98%85&color=555"/></td>
+</tr>
+<tr>
+<td><a href="https://github.com/keuchnotkush/Juice-Shop-Wallet-Depletion"><b>Juice-Shop-Wallet-Depletion</b></a></td>
+<td>Smart contract drain, dissected</td>
+<td><img src="https://img.shields.io/github/stars/keuchnotkush/Juice-Shop-Wallet-Depletion?style=flat-square&label=%E2%98%85&color=555"/></td>
+</tr>
+<tr>
+<td><a href="https://github.com/keuchnotkush/AYZE"><b>AYZE</b></a></td>
+<td>On-chain CDS market on the XRP Ledger</td>
+<td><img src="https://img.shields.io/github/stars/keuchnotkush/AYZE?style=flat-square&label=%E2%98%85&color=555"/></td>
+</tr>
+</table>
 
 <br>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.hackclub.dev/api?username=keuchnotkush&show_icons=true&hide_border=true&theme=dark&bg_color=00000000&hide_title=true&include_all_commits=true&count_private=true">
-    <img src="https://github-readme-stats.hackclub.dev/api?username=keuchnotkush&show_icons=true&hide_border=true&bg_color=00000000&hide_title=true&include_all_commits=true&count_private=true" height="165">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keuchnotkush&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keuchnotkush&theme=default" width="100%">
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keuchnotkush&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keuchnotkush&theme=default" height="170">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.hackclub.dev/api/top-langs/?username=keuchnotkush&layout=compact&hide_border=true&theme=dark&bg_color=00000000&hide_title=true">
-    <img src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=keuchnotkush&layout=compact&hide_border=true&bg_color=00000000&hide_title=true" height="165">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=keuchnotkush&theme=dark&hide_border=true&background=00000000">
+    <img src="https://streak-stats.demolab.com/?user=keuchnotkush&hide_border=true&background=00000000" height="170">
   </picture>
 </p>
 
