@@ -38,13 +38,16 @@ jobs:
           plugin_activity_days: 14
           plugin_activity_filter: all
 
-          # --- restrained ember accent (no glow, no emoji) ---
+          # --- restrained Dying Will ember (no glow, no emoji) ---
           extras_css: |
-            svg { background: #0b0b0d !important; }
-            .terminal, .window { border-color: #2a2a2e !important; }
-            .terminal .header, .header { background: #141416 !important; }
-            text, tspan { fill: #c9c9cf !important; }
-            h2, .title, strong, .highlight {
-              fill: #ff5a1f !important; color: #ff5a1f !important;
+            pre { background: #0b0b0d !important; color: #cfcfd4 !important; }
+            .terminal, .window, pre { border-color: #242428 !important; }
+            .title { color: #8a8a90 !important; }
+            .banner, footer { color: #6f6a70 !important; }
+            .ps1-path { color: #ff5a1f !important; }      /* user@host -> ember */
+            .ps1-location { color: #8a8a90 !important; }   /* ~ -> grey */
+            strong, b { color: #ededf0 !important; }
+            .isocalendar svg {
+              filter: grayscale(1) sepia(.85) hue-rotate(-18deg)
+                      saturate(2.3) brightness(.62) contrast(1.08) opacity(.95) !important;
             }
-            a, a text { fill: #ff7a3c !important; color: #ff7a3c !important; }
