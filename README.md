@@ -39,20 +39,7 @@ OPEN TO    Appsec · Security Research · Backend Development · OPS
 <br>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keuchnotkush&theme=github_dark">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keuchnotkush&theme=default" width="100%">
-  </picture>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keuchnotkush&theme=github_dark">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keuchnotkush&theme=default" height="170">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=keuchnotkush&theme=dark&hide_border=true&background=00000000">
-    <img src="https://streak-stats.demolab.com/?user=keuchnotkush&hide_border=true&background=00000000" height="170">
-  </picture>
+  <img src="./metrics.vongola.svg" alt="stats" width="100%">
 </p>
 
 <br>

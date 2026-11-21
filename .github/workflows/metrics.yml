@@ -1,0 +1,50 @@
+name: Metrics
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
+  push: { branches: ["main", "master"] }
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # --- core ---
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: ${{ github.repository_owner }}
+          filename: metrics.vongola.svg
+          template: terminal
+          base: header, repositories, metadata
+          config_timezone: Europe/Paris
+
+          # --- languages ---
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_colors: github
+          plugin_languages_details: percentage
+
+          # --- contribution calendar (isometric) ---
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # --- recent activity ---
+          plugin_activity: yes
+          plugin_activity_limit: 4
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+
+          # --- restrained ember accent (no glow, no emoji) ---
+          extras_css: |
+            svg { background: #0b0b0d !important; }
+            .terminal, .window { border-color: #2a2a2e !important; }
+            .terminal .header, .header { background: #141416 !important; }
+            text, tspan { fill: #c9c9cf !important; }
+            h2, .title, strong, .highlight {
+              fill: #ff5a1f !important; color: #ff5a1f !important;
+            }
+            a, a text { fill: #ff7a3c !important; color: #ff7a3c !important; }
