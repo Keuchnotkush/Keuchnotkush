@@ -38,6 +38,11 @@ jobs:
           plugin_activity_days: 14
           plugin_activity_filter: all
 
+          # --- stargazers over time ---
+          plugin_stargazers: yes
+          plugin_stargazers_charts: yes
+          plugin_stargazers_charts_type: graph
+
           # --- restrained Dying Will ember (no glow, no emoji) ---
           extras_css: |
             pre { background: #0b0b0d !important; color: #cfcfd4 !important; }
